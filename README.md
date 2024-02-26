@@ -1,1 +1,2 @@
-In this small project, we will be building Blackjack, a simple casino like game.
+#Learning javascript
+I build Blackjack, a simple casino game.
